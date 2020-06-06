@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
+title: My Blog
 SEOTitle: 图加东的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 987729535@qq.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 图加东的博客, tujiadong, 图加东, iOS, Apple, iPhone"
+description: "A man should have ambition to change the world!."
+keyword: "BY, My Blog, 图加东的博客, tujiadong, 图加东, iOS, Apple, iPhone"
 url: "http://robin9877.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/robin9877/robin9877.github.io.git" # you code repository
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+disqus_username: bmoczt
 
 # Gitalk
 gitalk:
@@ -77,7 +77,7 @@ gitalk:
 #ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-168673794-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
